@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD student (Cognitive Neuroscience)
+role: PhD student in Cognitive Neuroscience
 
 # Organizations/Affiliations
 organizations:

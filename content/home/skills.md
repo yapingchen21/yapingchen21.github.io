@@ -24,30 +24,30 @@ subtitle = ""
 
 [[feature]]
   icon = "r-project"
-  icon_pack = "custom"
+  icon_pack = "fab"
   name = "R"
   description = ""
 
 [[feature]]
   icon = "python"
-  icon_pack = "custom"
-  name = "python"
+  icon_pack = "fab"
+  name = "Python"
   description = ""
 
 [[feature]]
-  icon = ""
+  icon = "MEG"
   icon_pack = "custom"
   name = "MEG"
   description = ""
 
 [[feature]]
-  icon = ""
+  icon = "EEG"
   icon_pack = "custom"
   name = "EEG"
   description = ""
 
 [[feature]]
-  icon = ""
+  icon = "fMRI"
   icon_pack = "custom"
   name = "fMRI"
   description = ""

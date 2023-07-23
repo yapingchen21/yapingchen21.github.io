@@ -16,7 +16,7 @@ summary: Salzburg Mind Brain Annual Meeting (SAMBA), Salzburg, Austria
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2023-07-13T12:00:00Z"
 # date_end: "2019-03-25T13:15:00Z"
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"

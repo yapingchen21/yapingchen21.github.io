@@ -6,7 +6,7 @@ publication: "*Frontiers in Aging Neuroscience*, 11, 224"
 
 #publication_short: 
 
-authors: [Feng-Tzu Chen, "**Ya-Ping Chen**", Stefan Schneider, Shih-Chun Kao, Chih-Mao Huang, Yu-Kai Chang]
+authors: [Feng-Tzu Chen, admin, Stefan Schneider, Shih-Chun Kao, Chih-Mao Huang, Yu-Kai Chang]
 
 publication_types:
 - "2"

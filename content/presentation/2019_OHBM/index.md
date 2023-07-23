@@ -5,12 +5,13 @@ event: Annual Meeting of the Organization for Human Brain Mapping (OHBM)
 event_url: ""
 
 location: Rome, Italy
-# address:
-#   city: Jeju Island
-#   country: Korea
+address:
+  city: Rome
+  country: Italy
 
-# summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: ""
+
+summary: Organization for Human Brain Mapping (OHBM), Rome, Italy
+abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

@@ -9,7 +9,7 @@ location: San Diego, California, USA
 #   city: Baltimore
 #   country: USA
 
-summary: ""
+summary: Advances and Perspectives in Auditory Neuroscience (APAN), San Diego, USA
 
 
 # Talk start and end times.

@@ -19,19 +19,19 @@ subtitle = ""
 [[feature]]
   icon = "matlab"
   icon_pack = "custom"
-  name = "MATLAB"
+  name = "matlab"
   description = ""
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
+  icon = "R"
+  icon_pack = "custom"
   name = "R"
   description = ""
 
 [[feature]]
   icon = "python"
-  icon_pack = "fab"
-  name = "Python"
+  icon_pack = "custom"
+  name = "python"
   description = ""
 
 [[feature]]

@@ -6,7 +6,7 @@ publication: "*Telemedicine and e-Health*, 19(12), 973-978"
 
 #publication_short: 
 
-authors: [Chi-Lun Rau, "**Ya-Ping Chen**", Jin-Shin Lai, Shih-Ching Chen, Te-Son Kuo, Fu-Shan Jaw, Jer-Junn Luh]
+authors: [Chi-Lun Rau, admin, Jin-Shin Lai, Shih-Ching Chen, Te-Son Kuo, Fu-Shan Jaw, Jer-Junn Luh]
 
 publication_types:
 - "2"

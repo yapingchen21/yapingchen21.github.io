@@ -20,7 +20,7 @@ design:
 #### [o_ptb documentation](https://o-ptb.readthedocs.io/en/latest/)
 #### [An Introduction to the Objective Psychophysics Toolbox](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.585437/full)
 
-<br></br>
+
 ## Python Environment
 #### [Python in the bomber](https://thht.gitlab.io/tutorials/index.html)
 

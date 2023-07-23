@@ -9,7 +9,7 @@ location: San Diego, California, USA
 #   city: Jeju Island
 #   country: Korea
 
-summary: ""
+summary: Society for Neuroscience Annual Meeting (SfN), San Diego, USA
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2022-11-15T10:00:00Z"

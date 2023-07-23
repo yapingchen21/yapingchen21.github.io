@@ -1,19 +1,19 @@
 ---
-title: Invited Talks - How do human beings process degraded speech?
+title: Invited Talk - How do human beings process degraded speech?
 
 event: Toronto Auditory Research Group (TARG)
-event_url: ""
+event_url: ''
 
 location: Toronto, Canada
-# address:
-#   street: 3100 Wyman Park Drive
-#   city: Baltimore
-#   region: MD
-#   postcode: '21211'
-#   country: United States
+address:
+  street: ''
+  city: Toronto
+  region: ''
+  postcode: ''
+  country: Canada
 
-summary: ""
-abstract: ""
+summary: Toronto Auditory Research Group, Toronto, Canada
+abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -34,11 +34,11 @@ image:
   caption: ''
   focal_point: Right
 
-# links:
-# - icon: twitter
-#   icon_pack: fab
-#   name: Follow
-#   url: https://twitter.com/georgecushen
+links:
+# - icon: ''
+#   icon_pack: ''
+#   name: ''
+#   url: ''
 url_code: ""
 url_pdf: ""
 url_slides: "presentation/2022_Toronto/Toronto_20221122.pptx" # 

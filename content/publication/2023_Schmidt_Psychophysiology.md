@@ -1,20 +1,20 @@
 ---
 title: "Neural speech tracking shifts from the syllabic to the modulation rate of speech as intelligibility decreases"
 
-# Publication name and optional abbreviated publication name.
-publication: "*Psychophysiology*, e14362"
-
-#publication_short: 
-
 authors:
 - Fabian Schmidt
-- "**Ya-Ping Chen**"
+- admin
 - Anne Keitel
 - Sebastian Rösch
 - Ronny Hannemann
 - Maja Serman
 - Anne Hauswald
 - Nathan Weisz
+
+# Publication name and optional abbreviated publication name.
+publication: "*Psychophysiology*, e14362"
+
+#publication_short: 
 
 publication_types:
 - "2"

@@ -1,15 +1,15 @@
 ---
-title: "Poster - Neural temporal dynamics of continuous degraded speech processing"
+title: Poster - Neural temporal dynamics of continuous degraded speech processing
 
 event: Advances and Perspectives in Auditory Neuroscience (APAN)
-event_url: ""
+event_url: 
 
 location: virtual meeting
-# address:
-#   city: Baltimore
-#   country: USA
+address:
+  city: 
+  country: 
 
-summary: ""
+summary: Advances and Perspectives in Auditory Neuroscience (APAN), virtual
 
 
 # Talk start and end times.

@@ -2,12 +2,16 @@
 title: "Speech intelligibility changes the temporal evolution of neural speech tracking"
 
 authors:
-- "**Ya-Ping Chen**"
+- admin
 - Fabian Schmidt
 - Anne Keitel
 - Sebastian Rösch
 - Anne Hauswald
 - Nathan Weisz
+
+author_notes:
+  - '' # Equal contribution
+  - '' # Equal contribution
 
 date: "2023-01-21T00:00:00Z"
 

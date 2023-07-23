@@ -9,7 +9,7 @@ publication: "*European Journal of Neuroscience*, 55(11-12), 3288-3302"
 authors:
 - Anne Hauswald
 - Anne Keitel
-- "**Ya-Ping Chen**"
+- admin
 - Sebastian Rösch
 - Nathan Weisz
 

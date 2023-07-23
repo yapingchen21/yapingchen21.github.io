@@ -6,7 +6,7 @@ publication: "*International Journal of Environmental Research and Public Health
 
 #publication_short: 
 
-authors: [Hsiao-Lan Wang, "**Ya-Ping Chen**", Chi-Lun Rau, Chung-Huang Yu]
+authors: [Hsiao-Lan Wang, admin, Chi-Lun Rau, Chung-Huang Yu]
 
 publication_types:
 - "2"

@@ -6,7 +6,7 @@ publication: "*Aging & Mental Health*, 23(7), 831-839"
 
 #publication_short: 
 
-authors: [Yang-Teng Fan, Ya-Wen Fang, "**Ya-Ping Chen**", Eric D Leshikar, Ching-Po Lin, Ovid JL Tzeng, Hsu-Wen Huang, Chih-Mao Huang]
+authors: [Yang-Teng Fan, Ya-Wen Fang, admin, Eric D Leshikar, Ching-Po Lin, Ovid JL Tzeng, Hsu-Wen Huang, Chih-Mao Huang]
 
 publication_types:
 - "2"

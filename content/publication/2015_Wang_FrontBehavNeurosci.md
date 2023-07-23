@@ -6,7 +6,7 @@ publication: "*Frontiers in Behavioral Neuroscience*, 9, 45"
 
 #publication_short: 
 
-authors: [Hsiao-Lan Sharon Wang, Chi-Lun Rau, Yu-Mei Li, "**Ya-Ping Chen**", Rongjun Yu]
+authors: [Hsiao-Lan Sharon Wang, Chi-Lun Rau, Yu-Mei Li, admin, Rongjun Yu]
 
 publication_types:
 - "2"

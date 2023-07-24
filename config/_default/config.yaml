@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Ya-Ping CHEN # Website name
-baseURL: 'https://yapingchen21.netlify.app/' # Website URL
+baseURL: 'https://yapingchen21.github.io/' # Website URL https://yapingchen21.netlify.app/
 
 ############################
 ## LANGUAGE

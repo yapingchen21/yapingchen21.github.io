@@ -72,4 +72,8 @@ highlight_name: true
 
 ---
 
-Ya-Ping CHEN (陳雅苹)
+<p style="text-align:center"> _**On the 2024 job market!**_ </p>
+
+<p style="text-align:center"> Ya-Ping CHEN 陳雅苹 </p>
+
+<p style="text-align:center"> Cognitive Neuroscientist & Occupational Therapist </p>

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ya-Ping Chen
+title: Ya-Ping Chen 陳雅苹
 
 # Full name (for SEO)
 first_name: Ya-Ping

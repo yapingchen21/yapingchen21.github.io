@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ya-Ping Chen 陳雅苹
+title: Ya-Ping Chen
 
 # Full name (for SEO)
 first_name: Ya-Ping
@@ -25,14 +25,14 @@ organizations:
 bio: My research interests include auditory perception, working memory, and aging.
 
 interests:
-- auditory perception
+- auditory/visual perception
 - working memory
 - aging
 
 education:
   courses:
   - course: PhD in Cognitive Neuroscience
-    institution: University of Salzburg
+    institution: Paris Lodron University of Salzburg
     year: 2019-Present
   - course: MSc in Psychology
     institution: National Taiwan University
@@ -62,7 +62,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: files/CV_20230331_YPCHEN.pdf
+  link: files/CV_20230729_YPCHEN.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -71,9 +71,12 @@ email: ''
 highlight_name: true
 
 ---
+Cognitive Neuroscientist & Occupational Therapist
+<br><br/>
+<mark><b><i>On the 2024 job market!</i></b></mark>
+<br><br/>
+I am currently a PhD student supervised by <a href="https://ccns.plus.ac.at/labs/auditory/members/">Dr. Nathan Weisz in the Salzburg Brain Dynamics lab</a>.
+My primary research question is how human beings successfully process degraded speech.<br/>
+I also have interest in couples of topics in cognitive neuroscience.
+I have looked into healthy ageing with <a href="https://huangslab.weebly.com/">Dr. Chih-Mao Huang and Dr. Hsu-Wen Huang</a>, vision rehabilitation with <a href="https://www.mc.ntu.edu.tw/otntu/Vcard.action?q_type=A01&q_itemCode=1059">Dr. Li-Ting Tsai</a>, and visual working memory with <a href="https://scholar.google.com/citations?hl=en&user=28l8MF4AAAAJ">Dr. Bo-Cheng Kuo</a>.<br><br/>
 
-<p style="text-align:center"> _**On the 2024 job market!**_ </p>
-
-<p style="text-align:center"> Ya-Ping CHEN 陳雅苹 </p>
-
-<p style="text-align:center"> Cognitive Neuroscientist & Occupational Therapist </p>

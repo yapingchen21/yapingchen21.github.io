@@ -1,29 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ya-Ping CHEN</title>
     <link>http://localhost:1313/</link>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <description>Ya-Ping CHEN</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 13 Jul 2023 12:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu2193675fdafe95660548e214273b0766_263313_512x512_fill_lanczos_center_3.png</url>
-      <title>Ya-Ping CHEN</title>
-      <link>http://localhost:1313/</link>
-    </image>
-    
+    <description>Recent content on Ya-Ping CHEN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Jul 2023 12:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Poster - Cochlear implantation for sigle-sided deafness improves speech perception in both CI and non-CI ears: A longitudinal EEG study</title>
       <link>http://localhost:1313/presentation/2023_samba/</link>
       <pubDate>Thu, 13 Jul 2023 12:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/presentation/2023_samba/</guid>
-      <description></description>
+      <description>Salzburg Mind Brain Annual Meeting (SAMBA), Salzburg, Austria</description>
     </item>
     
     <item>
       <title>Neural speech tracking shifts from the syllabic to the modulation rate of speech as intelligibility decreases</title>
       <link>http://localhost:1313/publication/2023_schmidt_psychophysiology/</link>
       <pubDate>Fri, 23 Jun 2023 00:00:00 -0400</pubDate>
+      
       <guid>http://localhost:1313/publication/2023_schmidt_psychophysiology/</guid>
       <description></description>
     </item>
@@ -32,6 +29,7 @@
       <title>Speech intelligibility changes the temporal evolution of neural speech tracking</title>
       <link>http://localhost:1313/publication/2023_chen_neuroimage/</link>
       <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/publication/2023_chen_neuroimage/</guid>
       <description></description>
     </item>
@@ -40,46 +38,52 @@
       <title>Invited Talk - How do human beings process degraded speech?</title>
       <link>http://localhost:1313/presentation/2022_taipei/</link>
       <pubDate>Sun, 18 Dec 2022 16:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/presentation/2022_taipei/</guid>
-      <description></description>
+      <description>University System of Taiwan, Taipei, Taiwan</description>
     </item>
     
     <item>
       <title>Invited Talk - How do human beings process degraded speech?</title>
       <link>http://localhost:1313/presentation/2022_toronto/</link>
       <pubDate>Tue, 22 Nov 2022 16:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/presentation/2022_toronto/</guid>
-      <description></description>
+      <description>Toronto Auditory Research Group, Toronto, Canada</description>
     </item>
     
     <item>
       <title>Poster - Speech intelligibility changes the temporal evolution of neural speech tracking</title>
       <link>http://localhost:1313/presentation/2022_sfn/</link>
       <pubDate>Tue, 15 Nov 2022 10:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/presentation/2022_sfn/</guid>
-      <description></description>
+      <description>Society for Neuroscience Annual Meeting (SfN), San Diego, USA</description>
     </item>
     
     <item>
       <title>Poster - Cochlear implantation for sigle-sided deafness improves speech perception in both CI and non-CI ears: A longitudinal EEG study</title>
       <link>http://localhost:1313/presentation/2022_apan/</link>
       <pubDate>Fri, 11 Nov 2022 12:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/presentation/2022_apan/</guid>
-      <description></description>
+      <description>Advances and Perspectives in Auditory Neuroscience (APAN), San Diego, USA</description>
     </item>
     
     <item>
       <title>Poster - Neural temporal dynamics of continuous degraded speech processing</title>
       <link>http://localhost:1313/presentation/2020_apan/</link>
       <pubDate>Wed, 11 Nov 2020 12:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/presentation/2020_apan/</guid>
-      <description></description>
+      <description>Advances and Perspectives in Auditory Neuroscience (APAN), virtual</description>
     </item>
     
     <item>
       <title>Degradation levels of continuous speech affect neural speech tracking and alpha power differently</title>
       <link>http://localhost:1313/publication/2022_hauswald_ejn/</link>
       <pubDate>Mon, 20 Jul 2020 00:00:00 -0400</pubDate>
+      
       <guid>http://localhost:1313/publication/2022_hauswald_ejn/</guid>
       <description></description>
     </item>
@@ -88,14 +92,16 @@
       <title>Poster - Retrospective searching for feature binding of color and letter from within visual working memory representations</title>
       <link>http://localhost:1313/presentation/2019_ohbm/</link>
       <pubDate>Sat, 08 Jun 2019 16:45:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/presentation/2019_ohbm/</guid>
-      <description></description>
+      <description>Organization for Human Brain Mapping (OHBM), Rome, Italy</description>
     </item>
     
     <item>
       <title>Aging, cognition, and the brain: effects of age-related variation in white matter integrity on neuropsychological function</title>
       <link>http://localhost:1313/publication/2019_fan_agingmentalhealth/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/publication/2019_fan_agingmentalhealth/</guid>
       <description></description>
     </item>
@@ -104,6 +110,7 @@
       <title>Effects of exercise modes on neural processing of working memory in late middle-aged adults: An fMRI study</title>
       <link>http://localhost:1313/publication/2019_chenft_frontagingneurosci/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/publication/2019_chenft_frontagingneurosci/</guid>
       <description></description>
     </item>
@@ -112,59 +119,61 @@
       <title>Poster - The influences of selection history on working memory: An EEG study</title>
       <link>http://localhost:1313/presentation/2017_icon/</link>
       <pubDate>Sat, 05 Aug 2017 16:45:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/presentation/2017_icon/</guid>
-      <description></description>
+      <description>International Conference for Cognitive Neuroscience (ICON), Amsterdam, Netherlands</description>
     </item>
     
     <item>
       <title>Example Project</title>
       <link>http://localhost:1313/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
+      <description>An example of using the in-built project page.</description>
     </item>
     
     <item>
       <title>External Project</title>
       <link>http://localhost:1313/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/project/external-project/</guid>
-      <description></description>
+      <description>An example of linking directly to an external project website using &lt;code&gt;external_link&lt;/code&gt;.</description>
     </item>
     
     <item>
       <title>Poster - Age-related and individual differences in the neural correlates of spatial and temporal information in working memory</title>
       <link>http://localhost:1313/presentation/2016_cns/</link>
       <pubDate>Sat, 02 Apr 2016 16:45:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/presentation/2016_cns/</guid>
-      <description></description>
+      <description>Annual Meeting of Cognitive Neuroscience Society (CNS), New York, USA</description>
     </item>
     
     <item>
       <title>Poster - Age-related differences in working memory for order information: An fMRI study</title>
       <link>http://localhost:1313/presentation/2016_taiwancns/</link>
       <pubDate>Sat, 23 Jan 2016 08:13:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/presentation/2016_taiwancns/</guid>
-      <description></description>
+      <description>Annual Meeting of Taiwan Society of Cognitive Neuroscience Society, Taipei, Taiwan</description>
     </item>
     
     <item>
       <title>Poster - The neural correlates of working memory for temporal order information: An fMRI study</title>
       <link>http://localhost:1313/presentation/2015_sfn/</link>
       <pubDate>Mon, 09 Nov 2015 16:45:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/presentation/2015_sfn/</guid>
-      <description></description>
+      <description>Annual Meeting of Society for Neuroscience (SfN), Chicago, USA</description>
     </item>
     
     <item>
       <title>Disrupted thalamic resting-state functional networks in schizophrenia</title>
       <link>http://localhost:1313/publication/2015_wang_frontbehavneurosci/</link>
       <pubDate>Wed, 25 Feb 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/publication/2015_wang_frontbehavneurosci/</guid>
       <description></description>
     </item>
@@ -173,6 +182,7 @@
       <title>An interactive wireless communication system for visually impaired people using city bus transport</title>
       <link>http://localhost:1313/publication/2014_wang_ijerph/</link>
       <pubDate>Fri, 25 Apr 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/publication/2014_wang_ijerph/</guid>
       <description></description>
     </item>
@@ -181,6 +191,7 @@
       <title>Low-cost tele-assessment system for home-based evaluation of reaching ability following stroke</title>
       <link>http://localhost:1313/publication/2013_rau_telemedicine/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/publication/2013_rau_telemedicine/</guid>
       <description></description>
     </item>
@@ -189,15 +200,17 @@
       <title>Poster - Atypical visio-temporal processing in Schizophrenia and Autism Spectrum Disorders revealed by the continuous wagon wheel illusion</title>
       <link>http://localhost:1313/presentation/2013_vss/</link>
       <pubDate>Fri, 10 May 2013 16:45:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/presentation/2013_vss/</guid>
-      <description></description>
+      <description>Annual Meeting of Vision Science Society (VSS), Naples, Florida, USA</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/admin/config.yml</link>
+      <link>http://localhost:1313/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/admin/config.yml</guid>
+      
+      <guid>http://localhost:1313/admin/</guid>
       <description></description>
     </item>
     

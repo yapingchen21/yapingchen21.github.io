@@ -22,7 +22,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include auditory perception, working memory, and aging.
+bio: My research interests include auditory/visual perception, working memory, and aging.
 
 interests:
 - auditory/visual perception
@@ -32,13 +32,13 @@ interests:
 education:
   courses:
   - course: PhD in Cognitive Neuroscience
-    institution: Paris Lodron University of Salzburg
+    institution: Paris Lodron University of Salzburg, Austria
     year: 2019-Present
   - course: MSc in Psychology
-    institution: National Taiwan University
+    institution: National Taiwan University, Taiwan
     year: 2016-2018
   - course: BSc in Occupational Therapy
-    institution: National Taiwan University
+    institution: National Taiwan University, Taiwan
     year: 2006-2010
 
 # Social/Academic Networking
@@ -72,8 +72,6 @@ highlight_name: true
 
 ---
 Cognitive Neuroscientist & Occupational Therapist
-<br><br/>
-<mark><b><i>On the 2024 job market!</i></b></mark>
 <br><br/>
 I am currently a PhD student supervised by <a href="https://ccns.plus.ac.at/labs/auditory/members/">Dr. Nathan Weisz in the Salzburg Brain Dynamics lab</a>.
 My primary research question is how human beings successfully process degraded speech.<br/>

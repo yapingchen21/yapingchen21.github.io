@@ -38,7 +38,7 @@ image:
 #   name: Follow
 #   url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: "presentation/2013_VSS/2013_VSS_fin_s.pdf"
+url_pdf: files/poster/2013_VSS.pdf
 url_slides: ""
 url_video: ""
 

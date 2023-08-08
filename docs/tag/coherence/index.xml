@@ -1,21 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>coherence | Ya-Ping CHEN</title>
+    <title>coherence on Ya-Ping CHEN</title>
     <link>http://localhost:1313/tag/coherence/</link>
-      <atom:link href="http://localhost:1313/tag/coherence/index.xml" rel="self" type="application/rss+xml" />
-    <description>coherence</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 Jun 2023 00:00:00 -0400</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu2193675fdafe95660548e214273b0766_263313_512x512_fill_lanczos_center_3.png</url>
-      <title>coherence</title>
-      <link>http://localhost:1313/tag/coherence/</link>
-    </image>
-    
+    <description>Recent content in coherence on Ya-Ping CHEN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Jun 2023 00:00:00 -0400</lastBuildDate><atom:link href="http://localhost:1313/tag/coherence/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Neural speech tracking shifts from the syllabic to the modulation rate of speech as intelligibility decreases</title>
       <link>http://localhost:1313/publication/2023_schmidt_psychophysiology/</link>
       <pubDate>Fri, 23 Jun 2023 00:00:00 -0400</pubDate>
+      
       <guid>http://localhost:1313/publication/2023_schmidt_psychophysiology/</guid>
       <description></description>
     </item>
@@ -24,6 +20,7 @@
       <title>Speech intelligibility changes the temporal evolution of neural speech tracking</title>
       <link>http://localhost:1313/publication/2023_chen_neuroimage/</link>
       <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/publication/2023_chen_neuroimage/</guid>
       <description></description>
     </item>
@@ -32,6 +29,7 @@
       <title>Degradation levels of continuous speech affect neural speech tracking and alpha power differently</title>
       <link>http://localhost:1313/publication/2022_hauswald_ejn/</link>
       <pubDate>Mon, 20 Jul 2020 00:00:00 -0400</pubDate>
+      
       <guid>http://localhost:1313/publication/2022_hauswald_ejn/</guid>
       <description></description>
     </item>

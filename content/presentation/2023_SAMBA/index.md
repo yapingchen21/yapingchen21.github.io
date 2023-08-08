@@ -37,7 +37,7 @@ image:
 #   name: Follow
 #   url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: "presentation/2023_SAMBA/Chen_OE_184001.pdf"
+url_pdf: files/poster/2023_SAMBA.pdf
 url_slides: ""
 url_video: ""
 

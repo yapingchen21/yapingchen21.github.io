@@ -38,7 +38,7 @@ image:
 #   name: Follow
 #   url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: "presentation/2016_TaiwanCNS/2016_TSCN_temporal WM aging_poster.pdf"
+url_pdf: files/poster/2016_TSCN_temporal_WM_aging.pdf
 url_slides: ""
 url_video: ""
 

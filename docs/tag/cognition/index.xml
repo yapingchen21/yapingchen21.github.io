@@ -1,21 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cognition | Ya-Ping CHEN</title>
+    <title>cognition on Ya-Ping CHEN</title>
     <link>http://localhost:1313/tag/cognition/</link>
-      <atom:link href="http://localhost:1313/tag/cognition/index.xml" rel="self" type="application/rss+xml" />
-    <description>cognition</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu2193675fdafe95660548e214273b0766_263313_512x512_fill_lanczos_center_3.png</url>
-      <title>cognition</title>
-      <link>http://localhost:1313/tag/cognition/</link>
-    </image>
-    
+    <description>Recent content in cognition on Ya-Ping CHEN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/cognition/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aging, cognition, and the brain: effects of age-related variation in white matter integrity on neuropsychological function</title>
       <link>http://localhost:1313/publication/2019_fan_agingmentalhealth/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/publication/2019_fan_agingmentalhealth/</guid>
       <description></description>
     </item>
@@ -24,6 +20,7 @@
       <title>Effects of exercise modes on neural processing of working memory in late middle-aged adults: An fMRI study</title>
       <link>http://localhost:1313/publication/2019_chenft_frontagingneurosci/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/publication/2019_chenft_frontagingneurosci/</guid>
       <description></description>
     </item>

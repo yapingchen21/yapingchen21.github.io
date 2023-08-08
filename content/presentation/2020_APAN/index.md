@@ -37,7 +37,7 @@ image:
 #   name: Follow
 #   url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: "presentation/2020_APAN/poster_ypc_APAN2020.pdf"
+url_pdf: files/poster/2020_APAN.pdf
 url_slides: ""
 url_video: ""
 

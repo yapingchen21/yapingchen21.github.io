@@ -35,7 +35,7 @@ image:
 #   name: Follow
 #   url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: "presentation/2022_SfN/SfN_Chen_6levelvocoding.pdf"
+url_pdf: files/poster/2022_SfN_6levelvocoding.pdf
 url_slides: ""
 url_video: ""
 

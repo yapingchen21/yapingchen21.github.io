@@ -38,7 +38,7 @@ image:
 #   name: Follow
 #   url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: "presentation/2017_ICON/2017_ICON_CYP.pdf"
+url_pdf: files/poster/2017_ICON.pdf
 url_slides: ""
 url_video: ""
 

@@ -1,21 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>closed-skill exercise | Ya-Ping CHEN</title>
+    <title>closed-skill exercise on Ya-Ping CHEN</title>
     <link>http://localhost:1313/tag/closed-skill-exercise/</link>
-      <atom:link href="http://localhost:1313/tag/closed-skill-exercise/index.xml" rel="self" type="application/rss+xml" />
-    <description>closed-skill exercise</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu2193675fdafe95660548e214273b0766_263313_512x512_fill_lanczos_center_3.png</url>
-      <title>closed-skill exercise</title>
-      <link>http://localhost:1313/tag/closed-skill-exercise/</link>
-    </image>
-    
+    <description>Recent content in closed-skill exercise on Ya-Ping CHEN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/closed-skill-exercise/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Effects of exercise modes on neural processing of working memory in late middle-aged adults: An fMRI study</title>
       <link>http://localhost:1313/publication/2019_chenft_frontagingneurosci/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/publication/2019_chenft_frontagingneurosci/</guid>
       <description></description>
     </item>

@@ -38,7 +38,7 @@ image:
 #   name: Follow
 #   url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: "presentation/2016_CNS/2016_CNS_Aging WM poster.pdf"
+url_pdf: files/poster/2016_CNS_Aging_WM.pdf
 url_slides: ""
 url_video: ""
 

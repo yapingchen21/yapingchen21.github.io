@@ -41,7 +41,7 @@ links:
 #   url: ''
 url_code: ""
 url_pdf: ""
-url_slides: "presentation/2022_Toronto/Toronto_20221122.pptx" # 
+url_slides: files/talk/20221122_Toronto.pdf
 url_video: ""
 
 # Markdown Slides (optional).

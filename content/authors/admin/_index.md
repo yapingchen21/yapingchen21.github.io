@@ -75,6 +75,6 @@ Cognitive Neuroscientist & Occupational Therapist
 <br><br/>
 I am currently a PhD student supervised by <a href="https://ccns.plus.ac.at/labs/auditory/members/">Dr. Nathan Weisz in the Salzburg Brain Dynamics lab</a>.
 My primary research question is how human beings successfully process degraded speech.<br/>
-I also have interest in couples of topics in cognitive neuroscience.
-I have looked into healthy ageing with <a href="https://huangslab.weebly.com/">Dr. Chih-Mao Huang and Dr. Hsu-Wen Huang</a>, vision rehabilitation with <a href="https://www.mc.ntu.edu.tw/otntu/Vcard.action?q_type=A01&q_itemCode=1059">Dr. Li-Ting Tsai</a>, and visual working memory with <a href="https://scholar.google.com/citations?hl=en&user=28l8MF4AAAAJ">Dr. Bo-Cheng Kuo</a>.<br><br/>
+I also have interests in a couple of topics in cognitive neuroscience.
+I have delved into healthy ageing with <a href="https://huangslab.weebly.com/">Dr. Chih-Mao Huang and Dr. Hsu-Wen Huang</a>, vision rehabilitation with <a href="https://www.mc.ntu.edu.tw/otntu/Vcard.action?q_type=A01&q_itemCode=1059">Dr. Li-Ting Tsai</a>, and visual working memory with <a href="https://scholar.google.com/citations?hl=en&user=28l8MF4AAAAJ">Dr. Bo-Cheng Kuo</a>.<br><br/>
 

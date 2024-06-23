@@ -18,7 +18,7 @@ role: Postdoc in Cognitive Neuroscience
 
 # Organizations/Affiliations
 organizations:
-- name: Paris Lodron University of Salzburg
+- name: Uniklinikum Erlangen
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -73,8 +73,8 @@ highlight_name: true
 ---
 Cognitive Neuroscientist & Occupational Therapist
 <br><br/>
-I am currently a Postdoc, working with <a href="https://ccns.plus.ac.at/labs/auditory/members/">Dr. Nathan Weisz in the Salzburg Brain Dynamics lab</a>.
-My primary research question is how human beings successfully process degraded speech.<br/>
+I am currently a Postdoc, working with <a href="https://tinnlab955906066.wordpress.com/">Dr. Nadia Müller–Voggel at the TinnLab</a>. The main research question is how human beings develop tinnitus.<br/>
+During my doctoral study, I worked with with <a href="https://ccns.plus.ac.at/labs/auditory/members/">Dr. Nathan Weisz in the Salzburg Brain Dynamics lab</a>. My primary research question was how human beings successfully process degraded speech.<br/>
 I also have interests in a couple of topics in cognitive neuroscience.
 I have delved into healthy ageing with <a href="https://huangslab.weebly.com/">Dr. Chih-Mao Huang and Dr. Hsu-Wen Huang</a>, vision rehabilitation with <a href="https://www.mc.ntu.edu.tw/otntu/Vcard.action?q_type=A01&q_itemCode=1059">Dr. Li-Ting Tsai</a>, and visual working memory with <a href="https://scholar.google.com/citations?hl=en&user=28l8MF4AAAAJ">Dr. Bo-Cheng Kuo</a>.<br><br/>
 

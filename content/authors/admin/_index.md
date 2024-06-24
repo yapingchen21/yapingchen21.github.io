@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Ya-Ping Chen
+title: Ya-Ping CHEN
 
 # Full name (for SEO)
 first_name: Ya-Ping
-last_name: Chen
+last_name: CHEN
 
 # Status emoji
 # status:

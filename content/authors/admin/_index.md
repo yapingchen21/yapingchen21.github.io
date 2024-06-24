@@ -14,11 +14,11 @@ last_name: Chen
 superuser: true
 
 # Role/position
-role: Postdoc in Cognitive Neuroscience
+role: Postdoctoral Researcher 
 
 # Organizations/Affiliations
 organizations:
-- name: Uniklinikum Erlangen
+- name: University Hospital Erlangen
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

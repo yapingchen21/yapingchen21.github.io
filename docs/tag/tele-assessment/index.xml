@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tele-assessment | Ya-Ping CHEN</title>
-    <link>http://localhost:1313/tag/tele-assessment/</link>
-      <atom:link href="http://localhost:1313/tag/tele-assessment/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yapingchen21.github.io/tag/tele-assessment/</link>
+      <atom:link href="https://yapingchen21.github.io/tag/tele-assessment/index.xml" rel="self" type="application/rss+xml" />
     <description>tele-assessment</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu2193675fdafe95660548e214273b0766_263313_512x512_fill_lanczos_center_3.png</url>
+      <url>https://yapingchen21.github.io/media/icon_hu2193675fdafe95660548e214273b0766_263313_512x512_fill_lanczos_center_3.png</url>
       <title>tele-assessment</title>
-      <link>http://localhost:1313/tag/tele-assessment/</link>
+      <link>https://yapingchen21.github.io/tag/tele-assessment/</link>
     </image>
     
     <item>
       <title>Low-cost tele-assessment system for home-based evaluation of reaching ability following stroke</title>
-      <link>http://localhost:1313/publication/2013_rau_telemedicine/</link>
+      <link>https://yapingchen21.github.io/publication/2013_rau_telemedicine/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2013_rau_telemedicine/</guid>
+      <guid>https://yapingchen21.github.io/publication/2013_rau_telemedicine/</guid>
       <description></description>
     </item>
     

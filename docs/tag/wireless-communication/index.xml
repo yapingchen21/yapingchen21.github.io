@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>wireless communication | Ya-Ping CHEN</title>
-    <link>http://localhost:1313/tag/wireless-communication/</link>
-      <atom:link href="http://localhost:1313/tag/wireless-communication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yapingchen21.github.io/tag/wireless-communication/</link>
+      <atom:link href="https://yapingchen21.github.io/tag/wireless-communication/index.xml" rel="self" type="application/rss+xml" />
     <description>wireless communication</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Apr 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu2193675fdafe95660548e214273b0766_263313_512x512_fill_lanczos_center_3.png</url>
+      <url>https://yapingchen21.github.io/media/icon_hu2193675fdafe95660548e214273b0766_263313_512x512_fill_lanczos_center_3.png</url>
       <title>wireless communication</title>
-      <link>http://localhost:1313/tag/wireless-communication/</link>
+      <link>https://yapingchen21.github.io/tag/wireless-communication/</link>
     </image>
     
     <item>
       <title>An interactive wireless communication system for visually impaired people using city bus transport</title>
-      <link>http://localhost:1313/publication/2014_wang_ijerph/</link>
+      <link>https://yapingchen21.github.io/publication/2014_wang_ijerph/</link>
       <pubDate>Fri, 25 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2014_wang_ijerph/</guid>
+      <guid>https://yapingchen21.github.io/publication/2014_wang_ijerph/</guid>
       <description></description>
     </item>
     

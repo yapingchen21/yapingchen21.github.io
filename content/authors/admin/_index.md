@@ -49,9 +49,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:ya-ping.chen@plus.ac.at'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/YapingChen21
+  link: https://www.linkedin.com/in/ya-ping-chen-816855a0/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=gm5PSe0AAAAJ
